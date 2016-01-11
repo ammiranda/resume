@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Alexander Miranda",
+    "label": "Software Engineer",
+    "email": "alexandermichaelmiranda@gmail.com",
+    "phone": "(407) 462-9753",
+    "degree": "Bachelors of Science",
+    "website": "https://linkedin.com/in/alexmmiranda",
+    "summary": "Software professional that specializes in web technologies primarily for the front-end with emphasis on mapping and data visualization.",
+    "location": {
+      "address": "304 41st N",
+      "postalCode": "98103",
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alexmmiranda",
+        "url": "https://linkedin.com/in/alexmmiranda"
+      },
+      {
+        "network": "GitHub",
+        "username": "ammiranda",
+        "url": "https://github.com/ammiranda"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "GenWest Inc",
+      "position": "Software Engineer",
+      "website": "http://www.genwest.com/",
+      "startDate": "2014-07-01",
+      "endDate": "Present",
+      "summary": "I provide technical expertise to our primary client (NOAA) through the implementation of a new version of their existing GNOME and ADIOS applications. I also am working on an updated version of NOAA's ROC which is used by NOAA's Emergency Response Division as well as the Coast Guard.",
+      "highlights": [
+        "Consistently met project deadlines for specified features",
+        "Learned Python while on the job working on server-side improvements and scripting"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Member of 2nd Place Team at Lincoln Labs Seattle Hackathon",
+      "date": "2013-12-01",
+      "awarder": "Lincoln Labs",
+      "summary": "Worked on a five person team producing a Chrome Plug-in that lists the political contributions received by American Senators while a user is looking at news articles.  Description and code can be found at this link: https://github.com/amiranda222/political-annotations"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "area": "Environmental Science",
+      "studyType": "Bachelors",
+      "startDate": "2005-09-01",
+      "endDate": "2009-05-01",
+      "gpa": "3.0"
+    },
+    {
+      "institution": "Oregon State University",
+      "area": "Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "2014-04-01",
+      "endDate": "2018-05-01",
+      "gpa": "4.0",
+      "courses": [
+        "CS161 - Intro to Computer Science",
+        "CS225 - Discrete Mathematics",
+        "CS165 - Intro to Computer Science (Accel.)",
+        "CS290 - Web Development",
+        "CS261 - Data Structures and Algorithms"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "LESS",
+        "Python",
+        "Backbone.js",
+        "Amazon web services",
+        "MongoDB",
+        "SQL"
+      ]
+    }
+  ]
+}

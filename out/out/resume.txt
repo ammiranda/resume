@@ -1,0 +1,31 @@
+Alexander Miranda
+Email: alexandermichaelmiranda@gmail.com
+Tel: (407) 462-9753
+Web: https://linkedin.com/in/alexmmiranda
+================================================================================
+
+Software professional that specializes in web technologies primarily for the front-end with emphasis on mapping and data visualization.
+
+SKILLS -------------------------------------------------------------------------
+
+  - Web Development: HTML CSS JavaScript LESS Python Backbone.js Amazon web services MongoDB SQL 
+
+EMPLOYMENT ---------------------------------------------------------------------
+
+Software Engineer, GenWest Inc (2014-07 -- 2016-01)
+I provide technical expertise to our primary client (NOAA) through the implementation of a new version of their existing GNOME and ADIOS applications. I also am working on an updated version of NOAA's ROC which is used by NOAA's Emergency Response Division as well as the Coast Guard.
+  - Consistently met project deadlines for specified features
+  - Learned Python while on the job working on server-side improvements and scripting
+
+
+EDUCATION ----------------------------------------------------------------------
+
+Oregon State University (2014-04 — 2018-05)
+
+University of Michigan (2005-09 — 2009-05)
+
+
+RECOGNITION --------------------------------------------------------------------
+
+Member of 2nd Place Team at Lincoln Labs Seattle Hackathon, Lincoln Labs (Dec 2013)
+Worked on a five person team producing a Chrome Plug-in that lists the political contributions received by American Senators while a user is looking at news articles.  Description and code can be found at this link: https://github.com/amiranda222/political-annotations

@@ -1,0 +1,115 @@
+{
+  "name": "Alexander Miranda",
+  "info": {
+    "label": "Software Engineer",
+    "image": "",
+    "brief": "Software professional that specializes in web technologies primarily for the front-end with emphasis on mapping and data visualization."
+  },
+  "contact": {
+    "email": "alexandermichaelmiranda@gmail.com",
+    "phone": "(407) 462-9753",
+    "website": "https://linkedin.com/in/alexmmiranda"
+  },
+  "meta": {
+    "format": "FRESH@0.1.0",
+    "version": "0.1.0"
+  },
+  "location": {
+    "city": "Seattle",
+    "region": "",
+    "country": "US",
+    "code": "98103",
+    "address": "304 41st N"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Software Engineer",
+        "employer": "GenWest Inc",
+        "summary": "I provide technical expertise to our primary client (NOAA) through the implementation of a new version of their existing GNOME and ADIOS applications. I also am working on an updated version of NOAA's ROC which is used by NOAA's Emergency Response Division as well as the Coast Guard.",
+        "start": "2014-07-01",
+        "end": "2016-01-05",
+        "url": "http://www.genwest.com/",
+        "keywords": [],
+        "highlights": [
+          "Consistently met project deadlines for specified features",
+          "Learned Python while on the job working on server-side improvements and scripting"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Oregon State University",
+        "start": "2014-04-01",
+        "end": "2018-05-01",
+        "grade": "4.0",
+        "curriculum": [
+          "CS161 - Intro to Computer Science",
+          "CS225 - Discrete Mathematics",
+          "CS165 - Intro to Computer Science (Accel.)",
+          "CS290 - Web Development",
+          "CS271 - Data Structures and Algorithms"
+        ],
+        "summary": "",
+        "area": "Computer Science",
+        "studyType": "Bachelors"
+      },
+      {
+        "institution": "University of Michigan",
+        "start": "2005-09-01",
+        "end": "2009-05-01",
+        "grade": "3.0",
+        "curriculum": [
+          ""
+        ],
+        "summary": "",
+        "area": "Environmental Science",
+        "studyType": "Bachelors"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Web Development",
+        "level": "Master",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "LESS",
+          "Python",
+          "Backbone.js",
+          "Amazon web services",
+          "MongoDB",
+          "SQL"
+        ]
+      }
+    ]
+  },
+  "recognition": [
+    {
+      "title": "Member of 2nd Place Team at Lincoln Labs Seattle Hackathon",
+      "date": "2013-12-01",
+      "from": "Lincoln Labs",
+      "summary": "Worked on a five person team producing a Chrome Plug-in that lists the political contributions received by American Senators while a user is looking at news articles.  Description and code can be found at this link: https://github.com/amiranda222/political-annotations"
+    }
+  ],
+  "social": [
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "https://linkedin.com/in/alexmmiranda",
+      "user": "alexmmiranda"
+    },
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "url": "https://github.com/ammiranda",
+      "user": "ammiranda"
+    }
+  ]
+}
