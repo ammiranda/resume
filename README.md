@@ -1,4 +1,4 @@
-My JSON Resume
+My Resume
 ===
 
-My current resume using the [JSON resume](https://jsonresume.org/) schema.
+My current resume in [JSON resume](https://jsonresume.org/) and [latex](https://www.latex-project.org/about/) formats.
